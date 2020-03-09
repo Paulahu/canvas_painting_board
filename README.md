@@ -1,6 +1,1 @@
-# 本地预览方法
-
-```
-yarn global add http-server
-hs . -c-1
-```
+# 用canvas实现一个简易画板
